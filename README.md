@@ -7,3 +7,5 @@ First time really coding in Java and using visuals
 
 weighted quick union find algorithm package from Princeton Algorithms course
 StdDraw package also from Princeton
+
+course: https://online.princeton.edu/node/201
