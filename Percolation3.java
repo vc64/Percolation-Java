@@ -1,11 +1,4 @@
-//compilation: javac -cp C:/users/zehua/Desktop/vc/javacode/percolation/algs4unzip/ percolation.java
-//running: java -cp C:/users/zehua/desktop/vc/javacode/percolation/algs4unzip;. percolation
-// import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
-
-//import edu.princeton.cs.algs4.StdRandom;
-//import edu.princeton.cs.algs4.*;
-//import edu.princeton.cs.algs4.StdStats;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 
